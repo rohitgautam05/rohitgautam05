@@ -1,6 +1,6 @@
 ## Hi there, I am Rohit Gautam 👋
-I am graduate enginner in Microelectronics and VLSI Design.
-** Digital Design Enginner **
+I am graduate enginner in Microelectronics and VLSI Design. In my M.Tech I have worked in Phase Noise Analysis of Phase Frequency Detector(PFD) and Ring oscillator using time domain jitter. Recently, RISC V have sparked my interest in CPU core design.
+
 
 <!--
 **rohitgautam05/rohitgautam05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
