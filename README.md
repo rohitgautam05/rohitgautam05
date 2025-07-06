@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Gautam</h1>
-<h3 align="center">Digital Design Enginner</h3>
+<h3 align="center">RTL Design</h3>
 
 - 🔭 I’m currently working on **RISC V Single Cycle Processor Design**
 
