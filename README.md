@@ -17,5 +17,6 @@
 
 <h3 align="left">Current Projects:</h3>
 
-<h3 align="left">RISC V Single Cycle Processor Design</h3>
+<h3 align="left">1. RISC V Single Cycle Processor Design (Jun 2025 - Present)</h3>
+- I am currently implementing Single cycle RISC V processor using Verilog. 
 
